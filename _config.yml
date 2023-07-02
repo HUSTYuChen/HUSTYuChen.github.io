@@ -7,7 +7,7 @@ url: https://hustyuchen.github.io/
 # Owner/author information
 owner:
   name: Yu Chen
-  avatar: yuchen.jpg
+  avatar: fav.jpg
 #  bio:
   email: yu_chen2000@hust.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/Resume-HanlinCAI.pdf
+    url: /file/CV_YuChen.pdf
   - title: Publications
     url: /publications/
   - title: Projects
