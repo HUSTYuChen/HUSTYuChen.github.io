@@ -38,7 +38,7 @@ Latest Update: 30th June 2023&nbsp;
 
 - Diagnosing Transformer Winding Deformation Fault Types from FRA Based on Conditional-WGAN-GP Data Augmentation.<br>
 
-  **Yu Chen** (Advisor: Prof. Zhongyong Zhao), submit to ***measurement***.
+  **Yu Chen** (Advisor: Prof. Zhongyong Zhao), submit to ***Measurement***.<br>
 
 - Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL.<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submit to ***IEEE Transactions on Instrumentation and Measurement***.<br>
 
