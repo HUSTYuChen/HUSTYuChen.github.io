@@ -6,7 +6,7 @@ title: Awards
 
 ## Scholarships
 
-- Sep. 2022: First Prize Master Academic Scholarship of Huazhong University of Science and Technology (￥8000)<br>
+- Sep. 2022: First Prize Master Academic Scholarship of Huazhong University of Science and Technology (￥10000)<br>
 - Mar. 2022: Gratitude Scholarship Scientist Scholarship (￥20000)<br>
 - Oct. 2021: Tang Lixin Excellent Learning Pioneer (￥12000)<br>
 - Sep. 2021: Chinese National Scholarship (￥8000)<br>
