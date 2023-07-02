@@ -17,7 +17,7 @@ title: Awards
 
 - Nov. 2021: **National Second Prize** of National Student Electronic Design Competition
 - Aug. 2021: First Prize of "Challenge Cup" National Extracurricular Academic Science and Technology Competition for College Students (Chongqing Region)
-- Jan 2021: Meritorious Winner in Mathematical Contest In Modeling (6%)
+- Jan. 2021: Meritorious Winner in Mathematical Contest In Modeling (6%)
 - Oct. 2021: First Prize of National University Student Mathematical Modeling (Chongqing Region)
 - Dec.  2020: The third prize for the paper in the annual meeting of the Chongqing Electrical Engineering Society **(As the only undergraduate student)**
 - Jan. 2020: Meritorious Winner in Mathematical Contest In Modeling (6%)
