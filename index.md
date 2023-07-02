@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yu Chen ([陈宇](https://hustyuchen.github.io/file/CV_YuChen.pdf))**.
 
-I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology,  advised by [Prof. Bin Qin](http://faculty.hust.edu.cn/qinbin/zh_CN/index/1375399/list/index.htm) and [Prof. Xu Liu](http://faculty.hust.edu.cn/liuxuSEEE/zh_CN/index.htm).  I received my B.S. degree from the College of Engineering and Technology, Southwest University, advised by [Prof. Zhongyong Zhao](http://gcjsxy.swu.edu.cn/info/1013/1634.htm). Here is [my Resume](https://hustyuchen.github.io/file/CV_YuChen.pdf) (Last updated: March 2022).
+I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology,  advised by [Prof. Bin Qin](http://faculty.hust.edu.cn/qinbin/zh_CN/index/1375399/list/index.htm) and [Prof. Xu Liu](http://faculty.hust.edu.cn/liuxuSEEE/zh_CN/index.htm).  I received my B.S. degree from the College of Engineering and Technology, Southwest University, advised by [Prof. Zhongyong Zhao](http://gcjsxy.swu.edu.cn/info/1013/1634.htm). Here is [my Resume](https://hustyuchen.github.io/file/CV_YuChen.pdf) (Last updated: March 2022). 123
 
 <br>
 
