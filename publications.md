@@ -6,28 +6,41 @@ title: Publications
 
 # Publications
 
-Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 27th June 2023&nbsp;  
 
 ## Undergrad Thesis
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
+- Synchronous machine winding faults detection method based on deep learning (in Chinese)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>
 
-## Conference Paper
+  **Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University<br>**
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+## Journal Paper
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
 
 <br>
 
 ---
 
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
-
 ## Working Manuscript
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)
+- Seamless modeling and transmission efficiency optimization for a proton therapy beamline based on BDSIM.<br>
 
-<br>
+  **Yu Chen** (Advisor: Prof. Bin Qin)<br>
+
+- Diagnosing Transformer Winding Deformation Fault Types from FRA Based on Conditional-WGAN-GP Data Augmentation.<br>
+
+  **Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***measurement***.
+
+- Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL.<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***IEEE Transactions on Instrumentation and Measurement***.<br>
+
+- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu, **Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***High voltage (Chinese EI Journal)***.<br>
+
+## Competition Manuscript
+
+- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>
+- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>
+
+## Conference Paper
+
+- Being written
