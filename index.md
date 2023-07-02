@@ -14,18 +14,9 @@ I am currently pursuing a master’s degree with the School of Electrical and El
 
 ## Academic Background
 
-- **Sep 2022 - June 2025:** Huazhong University of Science and Technology (M.S.  **without exams**)<br>
+- **Sep 2022 - June 2025:** Huazhong University of Science and Technology (M.S.  **without exams**)<br>Major in electrical engineering at the School of Electrical and Electronic Engineering<br>Main courses:  Advanced Engineering Electromagnetic Fields (94), Fundamentals of Accelerator Physics (94), Applying Superconducting Technology (95), etc.<br>
 
-
-Major in electrical engineering at the School of Electrical and Electronic Engineering<br>
-
-Main courses:  Advanced Engineering Electromagnetic Fields (94), Fundamentals of Accelerator Physics (94), Applying Superconducting Technology (95), etc.<br>
-
-- **Sep 2018 - May 2022:** Southwest University (B.S.) GPA: 4.3/5.00 **(2/144)**<br>
-
-Major in electrical engineering at the College of Engineering and Technology<br>
-
-Main courses: Complex Function (100), Linear Algebra (100), Advanced Math (98), Mathematical Statistics (98), High Voltage Technology (95), Steady State Analysis of Power System (94), Electrical Machinery (95),  Automatic Control Principle (95), Signal & System (94), etc.<br>
+- **Sep 2018 - May 2022:** Southwest University (B.S.) GPA: 4.3/5.00 **(2/144)**<br>Major in electrical engineering at the College of Engineering and Technology<br>Main courses: Complex Function (100), Linear Algebra (100), Advanced Math (98), Mathematical Statistics (98), High Voltage Technology (95), Steady State Analysis of Power System (94), Electrical Machinery (95),  Automatic Control Principle (95), Signal & System (94), etc.<br>
 
 <br>
 
