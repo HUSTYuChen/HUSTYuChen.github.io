@@ -19,8 +19,4 @@ title: Blogs
 
 ## Leave a Message
 
-<br>
-
-{% include disqus.html %} 
-
-<br>
+If you want to contact me, my WeChat account is **chen1034429543**.
