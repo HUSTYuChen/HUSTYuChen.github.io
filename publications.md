@@ -10,9 +10,9 @@ Lastest Update: 27th June 2023&nbsp;
 
 ## Undergrad Thesis
 
-- Synchronous machine winding faults detection method based on deep learning (in Chinese)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>
+- Synchronous machine winding faults detection method based on deep learning (in Chinese)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergrad Thesis of Southwest Universit**<br>
 
-  **Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University<br>**
+  <br>
 
 ## Journal Paper
 

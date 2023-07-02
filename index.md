@@ -14,17 +14,17 @@ I am currently pursuing a master’s degree with the School of Electrical and El
 
 ## Academic Background
 
-- **Sep 2022 - June 2025:** Huazhong University of Science and Technology (M.S.  **without exams**)
+- **Sep 2022 - June 2025:** Huazhong University of Science and Technology (M.S.  **without exams**)<br>
 
-  Major in electrical engineering at the School of Electrical and Electronic Engineering
+  Major in electrical engineering at the School of Electrical and Electronic Engineering<br>
 
-  Selected courses: Advanced Engineering Electromagnetic Fields (94), Fundamentals of Accelerator Physics (94), Applying Superconducting Technology (95), etc.
+  Selected courses: Advanced Engineering Electromagnetic Fields (94), Fundamentals of Accelerator Physics (94), Applying Superconducting Technology (95), etc.<br>
 
-- **Sep 2018 - May 2022:** Southwest University (B.S.) GPA: 4.25/5.00 **(2/144)**
+- **Sep 2018 - May 2022:** Southwest University (B.S.) GPA: 4.25/5.00 **(2/144)**<br>
 
-  Major in electrical engineering at the College of Engineering and Technology
+  Major in electrical engineering at the College of Engineering and Technology<br>
 
-  Selected courses: Complex Function (100), Linear Algebra (100), Advanced Math (98), Mathematical Statistics (98), High Voltage Technology (97), Steady State Analysis of Power System (95), Electrical Machinery (95),  Automatic Control Principle (95), Signal & System (93), etc.
+  Selected courses: Complex Function (100), Linear Algebra (100), Advanced Math (98), Mathematical Statistics (98), High Voltage Technology (97), Steady State Analysis of Power System (95), Electrical Machinery (95),  Automatic Control Principle (95), Signal & System (93), etc.<br>
 
 <br>
 
@@ -32,7 +32,7 @@ I am currently pursuing a master’s degree with the School of Electrical and El
 
 ## Research Interests
 
-- Modeling beam transport systems, beam tuning (Current work)
+- Beam transport system modeling, beam tuning, beamline optimization (Current work)
 - The application of artificial intelligence in electrical engineering (Always)
 - Condition monitoring, fault diagnosing for power equipment, electrical equipment modeling (while I am an undergraduate student)
 
