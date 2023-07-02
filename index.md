@@ -26,7 +26,7 @@ I am currently pursuing a master’s degree with the School of Electrical and El
 
 - Beam transport system modeling, automatic beam tuning, intelligent beamline optimization (Current work)
 - The application of artificial intelligence in electrical engineering (Always)
-- Condition monitoring, fault diagnosing for power equipment, electrical equipment modeling (while I am an undergraduate student)
+- Condition monitoring, fault diagnosing for power equipment, electrical equipment modeling (While I am an undergraduate student)
 
 My current research focuses on beam transport engineering problems with the HUST-PTF as a case study. My interests are in **artificial intelligence** (data augmentation, anomaly detection, life long learning, reinforcement learning, few-shot learning, etc.) and its applications in **electrical engineering** (fault diagnosis, system identification, optimize control, etc.). In a word, advanced technologies like ML influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
