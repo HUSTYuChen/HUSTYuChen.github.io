@@ -6,53 +6,32 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
+P.S. click the hyper-link title to access the source (I have had many interesting project experiences, and I will only show three meaningful ones here).<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
-
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
-<br>
-
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)
 
 <center>
-<img src="/images/MCM-figure3.jpg">
-</center>
-<br>
-
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
-
-<center>
-<img src="/images/openiot-system.png">
+<img src="/images/understanding_IFRA.png">
 </center>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+#### [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://hustyuchen.github.io/mypaper/Journal/Meter_2022.pdf)
 
 <center>
-<img src="/images/iot-manager.png">
+<img src="/images/meter.png">
 </center>
-<br>
 
 <br>
 
----
+#### [Fault anomaly detection of synchronous machine winding based on isolation forest and impulse frequency response analysis](https://hustyuchen.github.io/mypaper/Journal/Anomaly_detection_2022.pdf)
 
-# Open-source Projects
+<center>
+<img src="/images/Anomaly_detection.png">
+</center>
 
 <br>
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
 
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
 
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**

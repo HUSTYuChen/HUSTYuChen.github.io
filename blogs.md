@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- [Causal inference (in Chinese)](https://hustyuchen.github.io/blogs/caual_inference.pdf)
+- [Causal inference (in Chinese)](https://hustyuchen.github.io/blogs/causal_inference.pdf)
 
 ### 2022
 
