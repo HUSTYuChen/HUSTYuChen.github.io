@@ -12,8 +12,9 @@ title: Blogs
 
 ### 2022
 
-- Reinforcement learning (in Chinese)<br>
-- Natural language process (in Chinese)<br>
+- [Reinforcement learning (in Chinese)](https://hustyuchen.github.io/blogs/Reinforment_learning.pdf)<br>
+- [Natural language process (in Chinese)](https://hustyuchen.github.io/blogs/NLP.pdf)<br>
+- [Variational method (in Chinese)](https://hustyuchen.github.io/blogs/Variational_method.pdf)<br>
 
 <br>
 
