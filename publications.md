@@ -32,13 +32,13 @@ Latest Update: 30th June 2023&nbsp;
 
 ## Working Manuscript
 
-- Seamless Modeling and Transmission Efficiency Optimization for a Proton Therapy Beamline Based on BDSIM.<br>**Yu Chen** (Advisor: Prof. Bin Qin), submit to **Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment**.<br>
+- Seamless Modeling and Transmission Efficiency Optimization for a Proton Therapy Beamline Based on BDSIM.<br>**Yu Chen** (Advisor: Prof. Bin Qin), submitted to ***Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment***.<br>
 
-- Diagnosing Transformer Winding Deformation Fault Types from FRA Based on Conditional-WGAN-GP Data Augmentation.<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submit to ***Measurement***.<br>
+- Diagnosing Transformer Winding Deformation Fault Types from FRA Based on Conditional-WGAN-GP Data Augmentation.<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***Measurement***.<br>
 
-- Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL.<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submit to ***IEEE Transactions on Instrumentation and Measurement***.<br>
+- Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL.<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***IEEE Transactions on Instrumentation and Measurement***.<br>
 
-- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu, **Yu Chen** (Advisor: Prof. Zhongyong Zhao), submit to ***High voltage (Chinese EI Journal)***.<br>
+- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu, **Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***High Voltage (Chinese EI Journal)***.<br>
 
 ## Competition Manuscript
 
