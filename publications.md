@@ -32,7 +32,7 @@ Latest Update: 30th June 2023&nbsp;
 
 ## Working Manuscript
 
-- Seamless Modeling and Transmission Efficiency Optimization for a Proton Therapy Beamline Based on BDSIM.<br>**Yu Chen** (Advisor: Prof. Bin Qin)<br>
+- Seamless Modeling and Transmission Efficiency Optimization for a Proton Therapy Beamline Based on BDSIM.<br>**Yu Chen** (Advisor: Prof. Bin Qin), submit to **Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment**.<br>
 
 - Diagnosing Transformer Winding Deformation Fault Types from FRA Based on Conditional-WGAN-GP Data Augmentation.<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submit to ***Measurement***.<br>
 
