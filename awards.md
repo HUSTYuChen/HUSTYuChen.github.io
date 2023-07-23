@@ -17,9 +17,10 @@ title: Awards
 
 - Nov. 2021: **National Second Prize** of National Student Electronic Design Competition
 - Aug. 2021: First Prize of "Challenge Cup" National Extracurricular Academic Science and Technology Competition for College Students (Chongqing Region)
+- Jul. 2021: **National Second Prize** of National College Students' Plasma Science and Technology Innovation Competition
 - Jan. 2021: Meritorious Winner in Mathematical Contest In Modeling (6%)
 - Oct. 2021: First Prize of National University Student Mathematical Modeling (Chongqing Region)
-- Dec.  2020: The third prize for the paper in the annual meeting of the Chongqing Electrical Engineering Society **(As the only undergraduate student)**
+- Dec.  2020: The third prize for the conference paper at the annual conference of the Chongqing Electrical Engineering Society **(As the only undergraduate student)**
 - Jan. 2020: Meritorious Winner in Mathematical Contest In Modeling (6%)
 - Sep. 2019: First Prize in National University Mathematics Competition (Chongqing Region)
 
@@ -36,4 +37,4 @@ title: Awards
 - 2018-2019: Worker of the Attendance Department, Southwestern University Center Library Management Committee
 - 2018-2019: Monitor of 2018 Electrical Engineering Class 1 at Southwest University
 
-Latest Update: 21st May 2023 &nbsp; 
+Latest Update: 23st June 2023 &nbsp; 
