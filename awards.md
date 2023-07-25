@@ -27,14 +27,14 @@ title: Awards
 ## Honors
 
 - May 2022：Chongqing Outstanding Graduates
-- May 2022：Outstanding Graduates from Southwestern University
+- May 2022：Outstanding Graduates from Southwest University
 - May 2022：Excellent Undergraduate Graduation Thesis in Chongqing
 - May 2022：First Prize of Undergrad Thesis of Southwest University
 
 ## Services
 
-- 2019-2020: Cadres of the Attendance Department, Southwestern University Center Library Management Committee
-- 2018-2019: Worker of the Attendance Department, Southwestern University Center Library Management Committee
+- 2019-2020: Cadres of the Attendance Department, Southwest University Center Library Management Committee
+- 2018-2019: Worker of the Attendance Department, Southwest University Center Library Management Committee
 - 2018-2019: Monitor of 2018 Electrical Engineering Class 1 at Southwest University
 
 Latest Update: 23st June 2023 &nbsp; 
