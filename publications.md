@@ -16,11 +16,7 @@ Latest Update: 29th Aug 2023&nbsp;
 
 ## Journal Papers
 
-- Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL<br>
-
-  **Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Yunlong Guo; Chao Tang<br>
-
-  IEEE Transactions on Instrumentation and Measurement, 2023
+- Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL<br>**Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Yunlong Guo; Chao Tang<br>IEEE Transactions on Instrumentation and Measurement, 2023
 
 - [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Wei Wang; Chao Tang <br>IEEE Sensors Journal, 2023<br>
 
