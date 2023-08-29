@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Latest Update: 30th June 2023&nbsp;  
+Latest Update: 29th Aug 2023&nbsp;  
 
 ## Undergrad Thesis
 
