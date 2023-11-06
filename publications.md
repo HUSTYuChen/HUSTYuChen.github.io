@@ -16,6 +16,10 @@ Latest Update: 29th Aug 2023&nbsp;
 
 ## Journal Papers
 
+- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu; **Yu Chen**; Zhongyong Zhao*; Xiaoyu Gong; Chao Tang <br>
+
+- High Voltage (Chinese EI Journal), 2023<br>
+
 - [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>
 **Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Yunlong Guo; Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023<br>
 
