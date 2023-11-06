@@ -16,29 +16,17 @@ Latest Update: 29th Aug 2023&nbsp;
 
 ## Journal Papers
 
-- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu; **Yu Chen**; Zhongyong Zhao*; Xiaoyu Gong; Chao Tang <br>
-
-- High Voltage (Chinese EI Journal), 2023<br>
-
+- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu; **Yu Chen**; Zhongyong Zhao*; Xiaoyu Gong; Chao Tang <br>High Voltage (Chinese EI Journal), 2023<br>
 - [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>
 **Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Yunlong Guo; Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023<br>
-
 - [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Wei Wang; Chao Tang <br>IEEE Sensors Journal, 2023<br>
-
 - [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://hustyuchen.github.io/mypaper/Journal/Meter_2022.pdf)<br>Zhongyong Zhao*; **Yu Chen (student first)**; Jiangnan Liu; Yingying Cheng; Chao Tang; Chenguo Yao<br>IEEE Transactions on Industrial Informatics, 2022<br>
-
 - [Evaluation of the Applicability of IFRA for Short Circuit Fault Detection of Stator Windings in Synchronous Machines](https://hustyuchen.github.io/mypaper/Journal/IFRA_2022.pdf)<br>Yueqiang Yu; Zhongyong Zhao*; **Yu Chen**; Hanzhi Wu; Chao Tang; Wenwen Gu<br>IEEE Transactions on Instrumentation and Measurement, 2022<br>
-
 - [Fault anomaly detection of synchronous machine winding based on isolation forest and impulse frequency response analysis](https://hustyuchen.github.io/mypaper/Journal/Anomaly_detection_2022.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Hanzhi Wu, Xi Chen, Qianbo Xiao, Yueqiang Yu<br>Measurement, 2022<br>
-
 - [Equivalent Broadband Electrical Circuit of Synchronous Machine Winding for Frequency Response Analysis based on Gray Box Model](https://hustyuchen.github.io/mypaper/Journal/Modeling_2_2021.pdf)<br>Zhongyong Zhao*; **Yu Chen (student first)**; Yueqiang Yu; Mengyuan Han; Chao Tang; Chenguo Yao<br>IEEE Transactions on Energy Conversion, 2021<br>
-
 - [Synchronous Machine Winding Modeling Method Based on Broadband Characteristics](https://hustyuchen.github.io/mypaper/Journal/Modeling_1_2021.pdf)<br>**Yu Chen**, Xiaoqing Ji, Zhongyong Zhao*<br>Applied Science, 2021<br>
-
 - [Analysis of Influencing Factors of 10 kV Dry Type Iron Core Series Ｒeactor Fault Based on Equivalent Circuit and Temperature Field Model (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/Reactor_2021.pdf) <br>Zhongyong Zhao*; **Yu Chen (student first)**; Yanqjun Li; Mengyuan Han; Yueqiang Yue<br> Science Technology and Engineering, 2021<br>
-
 - [Interpretation of Transformer Winding Deformation Fault by the Spectral Clustering of FRA Signature](https://hustyuchen.github.io/mypaper/Journal/FRA_Transformer_1_2021.pdf)<br>Zhongyong Zhao*, Chao Tang, **Yu Chen**, Qu Zhou, Chenguo Yao, Syed Islam<br>International Journal of Electrical Power & Energy Systems, 2021<br>
-
 - [The Actual Measurement and Analysis of Transformer Winding Deformation Fault Degrees by FRA Using Mathematical Indicators](https://hustyuchen.github.io/mypaper/Journal/FRA_Transformer_1_2020.pdf)<br>Jianqiang Ni , Zhongyong Zhao*, Shan Tan, **Yu Chen**, Chenguo Yao , Chao Tang<br>Electric Power Systems Research, 2020<br>
 
 <br>
@@ -49,7 +37,6 @@ Latest Update: 29th Aug 2023&nbsp;
 
 - Seamless Modeling and Transmission Efficiency Optimization for a Proton Therapy Beamline Based on BDSIM. (Major revision)<br>**Yu Chen** (Advisor: Prof. Bin Qin), submitted to ***Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment***.<br>
 - Diagnosing Transformer Winding Deformation Fault Types from FRA Based on Conditional-WGAN-GP Data Augmentation. (Major revision)<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***Measurement***.<br>
-- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu, **Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***High Voltage (Chinese EI Journal)***.<br>
 
 ## Competition Manuscript
 
