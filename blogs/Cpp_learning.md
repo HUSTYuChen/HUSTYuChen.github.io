@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /awards/index.html
+title: Cpp_Learning
+---
+
+
+
 # C++基础入门
 
 ## 1 C++初识
@@ -3641,5 +3649,4 @@ int main() {
 	return 0;
 }
 ```
-
 
