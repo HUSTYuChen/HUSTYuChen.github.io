@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- [Cpp_learning (in Chinese)](https://hustyuchen.github.io/blogs/Cpp_learning.md)
+- [Cpp_learning (in Chinese)](https://hustyuchen.github.io/blogs/Cpp_learning)
 - [Causal inference (in Chinese)](https://hustyuchen.github.io/blogs/causal_inference.pdf)
 
 ### 2022

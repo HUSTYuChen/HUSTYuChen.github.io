@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /awards/index.html
+permalink: /blogs/Cpp_learning/index.html
 title: Cpp_Learning
 ---
 
