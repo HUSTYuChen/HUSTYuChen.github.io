@@ -16,7 +16,7 @@ Latest Update: 29th Aug 2023&nbsp;
 
 ## Journal Papers
 
-- Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese).<br>Yueqiang Yu; **Yu Chen**; Zhongyong Zhao*; Xiaoyu Gong; Chao Tang <br>High Voltage (Chinese EI Journal), 2023<br>
+- [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu; **Yu Chen**; Zhongyong Zhao*; Xiaoyu Gong; Chao Tang <br>High Voltage (Chinese EI Journal), 2023<br>
 - [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>
 **Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Yunlong Guo; Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023<br>
 - [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**; Zhongyong Zhao*; Yueqiang Yu; Wei Wang; Chao Tang <br>IEEE Sensors Journal, 2023<br>
@@ -37,6 +37,7 @@ Latest Update: 29th Aug 2023&nbsp;
 
 - Seamless Modeling and Transmission Efficiency Optimization for a Proton Therapy Beamline Based on BDSIM. (Major revision)<br>**Yu Chen** (Advisor: Prof. Bin Qin), submitted to ***Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment***.<br>
 - Diagnosing Transformer Winding Deformation Fault Types from FRA Based on Conditional-WGAN-GP Data Augmentation. (Major revision)<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***Measurement***.<br>
+- Intelligent FRA-guided Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Active Learning<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***IEEE Transactions on Energy Conversion***.<br>
 
 ## Competition Manuscript
 
