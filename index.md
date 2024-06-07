@@ -10,7 +10,7 @@ Here is **Yu Chen ([陈宇](https://hustyuchen.github.io/file/CV_YuChen.pdf))**.
 
 I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology,  advised by [Prof. Bin Qin](http://faculty.hust.edu.cn/qinbin/zh_CN/index/1375399/list/index.htm) and [Prof. Xu Liu](http://faculty.hust.edu.cn/liuxuSEEE/zh_CN/index.htm).  I received my B.S. degree from the College of Engineering and Technology, Southwest University, advised by [Prof. Zhongyong Zhao](http://gcjsxy.swu.edu.cn/info/1013/1634.htm). Here is [my Resume](https://hustyuchen.github.io/file/CV_YuChen.pdf) (Last updated: March 2024).
 
-Now, i am find a PhD position about deep learning application in power system in HK or Singapore. If you are interested in any aspect of me and my works, I would love to chat and collaborate, please email me at - *yu_chen2000@hust.edu.cn* or *chen1034429543 *(wechat).
+Now, I am looking for a PhD position in deep learning application in the power system in HK or Singapore. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at - yu_chen2000@hust.edu.cn or chen1034429543 (WeChat).
 
 <br>
 
