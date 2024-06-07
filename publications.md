@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Latest Update: 29th Aug 2023&nbsp;  
+Latest Update: 7th June 2024&nbsp;  
 
 ## Undergrad Thesis
 
@@ -15,6 +15,8 @@ Latest Update: 29th Aug 2023&nbsp;
   <br>
 
 ## Journal Papers
+
+- [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
 
 - [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024<br>
 
@@ -47,7 +49,6 @@ Latest Update: 29th Aug 2023&nbsp;
 
 ## Working Manuscript
 
-- Seamless Modeling and Transmission Efficiency Optimization for a Proton Therapy Beamline Based on BDSIM. (Major revision)<br>**Yu Chen** (Advisor: Prof. Bin Qin), submitted to ***Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment***.<br>
 - Intelligent FRA-guided Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Active Learning<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***IEEE Transactions on Energy Conversion***.<br>
 
 ## Competition Manuscript
