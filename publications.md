@@ -16,7 +16,7 @@ Latest Update: 7th June 2024&nbsp;
 
 ## Journal Papers
 
-- [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
+- [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/Start_to_end_modeling_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
 
 - [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024<br>
 
