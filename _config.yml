@@ -13,9 +13,9 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: cy1034429543
+  github: cy1034429432
   #linkedin: hanlin-cai-07b53b23b
-  scholar: https://orcid.org/0000-0001-5468-1380
+  scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=IdX2vO4AAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -79,7 +79,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/

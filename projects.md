@@ -13,7 +13,6 @@ P.S. click the hyperlink title to access the source (I have many interesting pro
 <center>
 <img src="/images/understanding_IFRA.png">
 </center>
-
 <br>
 
 #### [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://hustyuchen.github.io/mypaper/Journal/Meter_2022.pdf)
