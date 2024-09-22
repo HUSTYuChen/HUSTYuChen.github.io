@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://hustyuchen.github.io/yuchenbig.jpg" class="floatpic" width="800" height="600">
+<img src="https://hustyuchen.github.io/yuchenbig.jpg" class="floatpic" width="1600" height="1200">
 
 Here is **Yu Chen ([陈宇](https://hustyuchen.github.io/file/CV_YuChen.pdf))**.
 
