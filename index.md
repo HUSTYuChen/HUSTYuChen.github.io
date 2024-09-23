@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://hustyuchen.github.io/yuchenbig.jpg" class="floatpic" width="1600" height="1200">
+<img src="https://hustyuchen.github.io/yuchenbig.jpg" class="floatpic" width="3200" height="2400">
 
 Here is **Yu Chen ([陈宇](https://hustyuchen.github.io/file/CV_YuChen.pdf))**.
 
-I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology,  advised by [Prof. Bin Qin](http://faculty.hust.edu.cn/qinbin/zh_CN/index/1375399/list/index.htm) and [Prof. Xu Liu](http://faculty.hust.edu.cn/liuxuSEEE/zh_CN/index.htm).  I received my B.S. degree from the College of Engineering and Technology, Southwest University, advised by [Prof. Zhongyong Zhao](http://gcjsxy.swu.edu.cn/info/1013/1634.htm). Here is [my Resume](https://hustyuchen.github.io/file/CV_YuChen.pdf) (Last updated: March 2024).
+I am currently pursuing a master’s degree at the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, as advised by [Prof. Bin Qin](http://faculty.hust.edu.cn/qinbin/zh_CN/index/1375399/list/index.htm) and [Prof. Xu Liu](http://faculty.hust.edu.cn/liuxuSEEE/zh_CN/index.htm).  I received my B.S. degree from the College of Engineering and Technology, Southwest University, advised by [Prof. Zhongyong Zhao](http://gcjsxy.swu.edu.cn/info/1013/1634.htm). Here is [my Resume](https://hustyuchen.github.io/file/CV_YuChen.pdf) (Last updated: March 2024).
 
-Now, I am looking for a PhD position in deep learning application in the power system in HK or Singapore. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at  yu_chen2000@hust.edu.cn or chen1034429543 (WeChat).
+Now, I am seeking a PhD position in deep learning application in the power system. I would love to chat and collaborate if you are interested in any aspect of me and my work. Please email me at  yu_chen2000@hust.edu.cn or chen1034429543 (WeChat).
 
 <br>
 
@@ -30,7 +30,7 @@ Now, I am looking for a PhD position in deep learning application in the power s
 - The application of artificial intelligence in electrical engineering (Always)
 - Condition monitoring, fault diagnosing for power equipment, electrical equipment modeling (While I am an undergraduate student)
 
-My current research focuses on beam transport engineering problems with the HUST-PTF as a case study. My interests are in **artificial intelligence** (data augmentation, anomaly detection, life long learning, reinforcement learning, few-shot learning, etc.) and its applications in **electrical engineering** (fault diagnosis, system identification, optimize control, etc.). In a word, advanced technologies like ML influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on beam transport engineering problems with the HUST-PTF as a case study. My interests are in **artificial intelligence** (data augmentation, anomaly detection, life long learning, reinforcement learning, few-shot learning, etc.) and its applications in **electrical engineering** (fault diagnosis, system identification, optimize control, etc.). In a word, advanced technologies like ML influence the lives of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
