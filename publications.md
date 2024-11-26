@@ -18,7 +18,7 @@ Latest Update: 26 Nov. 2024&nbsp;
 
 - [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://hustyuchen.github.io/mypaper/Journal/Surrogate_model_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024<br>
 
-- [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2024.pdf) <br>Wei Wang, Bin Qin*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>International Journal of Modern Physics A, 2024<br>
+- [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2024.pdf) <br>Wei Wang, Xu Liu*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>International Journal of Modern Physics A, 2024<br>
 
 - [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/Start_to_end_modeling_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
 
