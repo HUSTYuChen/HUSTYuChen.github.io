@@ -8,17 +8,19 @@ title: Publications
 
 Latest Update: 26 Nov. 2024&nbsp;  
 
-## Undergrad Thesis
+## Thesis
 
-- Synchronous Machine Winding Faults Detection Method Based on Deep Learning (in Chinese)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergrad Thesis of Southwest University**<br>
+- Synchronous Machine Winding Faults Detection Method Based on Deep Learning (in Chinese)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University**<br>
 
   <br>
 
 ## Journal Papers
 
+- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025<br>
+
 - [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://hustyuchen.github.io/mypaper/Journal/Surrogate_model_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024<br>
 
-- [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2024.pdf) <br>Wei Wang, Xu Liu*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>International Journal of Modern Physics A, 2024<br>
+- [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2024.pdf) <br>Wei Wang, Xu Liu*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>Physics in Medicine & Biology, 2024<br>
 
 - [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/Start_to_end_modeling_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
 
@@ -53,7 +55,7 @@ Latest Update: 26 Nov. 2024&nbsp;
 
 ## Working Manuscript
 
-- Intelligent FRA-guided Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Active Learning<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***IEEE Transactions on Energy Conversion***.<br>
+- Two-step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***IEEE Transactions on Power Delivery***.<br>
 
 ## Competition Manuscript
 
