@@ -16,7 +16,7 @@ Latest Update: 26 Nov. 2024&nbsp;
 
 ## Journal Papers
 
-- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025<br>
+- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025<br>
 
 - [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://hustyuchen.github.io/mypaper/Journal/Surrogate_model_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024<br>
 
