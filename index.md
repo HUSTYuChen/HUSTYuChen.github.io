@@ -28,11 +28,13 @@ I would love to chat and collaborate if you are interested in any aspect of me a
 
 ## Research Interests
 
-- Transient model and fault diagnosis for transformer winding based on frequency response analysis (Ph.D., these research works are a continuation of my undergraduate work 😊😊.)
+- Transient model, condition monitoring, and fault diagnosis for transformer winding based on frequency response analysis (Ph.D., these research works are a continuation of my undergraduate work 😊😊.)
 - Start-to-end modeling and surrogate model for a proton therapy facility and intelligent beamline optimization (M.S., I am no longer engaged in related research 😭😭.)
 - Broadband equivalent circuit modeling, condition monitoring, and fault diagnosing for synchronous machine winding based on frequency response analysis (B.S., I am still conducting relevant research at present 😊😊.)
 
-My current research focuses on transformer winding modeling and fault diagnosis. My interests are in **artificial intelligence** (data augmentation, anomaly detection, lifelong learning, reinforcement learning, few-shot learning, etc.) and its applications in **electrical engineering** (fault diagnosis, system identification, optimal control, etc.). In a word, advanced technologies like ML influence the lives of everybody and help us to do objective decision.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research investigates integrated transformer modeling, encompassing the tank, winding, and other constituent components. My broader research interests lie in the application of artificial intelligence (AI) methodologies to electrical engineering problems, specifically focusing on techniques such as data augmentation, anomaly detection, lifelong learning, reinforcement learning, and few-shot learning. These AI-driven approaches are being explored in contexts such as fault diagnosis, system identification, and optimal control.
+
+My ultimate goal is to leverage these AI-driven methodologies to improve the reliability and efficiency of electrical power systems, thereby contributing to societal well-being through advancements in fault diagnosis, system identification, and optimal control 😊😊.
 
 <br>
 

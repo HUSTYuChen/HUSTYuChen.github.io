@@ -6,13 +6,14 @@ title: Publications
 
 # Publications
 
-Latest Update: 26 Nov. 2024&nbsp;  
+Latest Update: May 2025&nbsp;  
 
 ## Thesis
 
-- Synchronous Machine Winding Faults Detection Method Based on Deep Learning (in Chinese)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University**<br>
+- Research on Integrated Simulation and Surrogate Model  of Proton Therapy Facility Beamline (Master's Thesis)<br>**Yu Chen** (Advisor: Bin Qin)<br>Due to confidentiality, this master's thesis will be available on CNKI in 2031.<br>
 
-  <br>
+- Synchronous Machine Winding Faults Detection Method Based on Deep Learning (Bachelor's Thesis)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University**<br>
+
 
 ## Journal Papers
 
@@ -57,6 +58,15 @@ Latest Update: 26 Nov. 2024&nbsp;
 
 - Two-step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>**Yu Chen** (Advisor: Prof. Zhongyong Zhao), submitted to ***IEEE Transactions on Power Delivery***.<br>
 
+
+
+## Conference Papers
+
+- High-fidelity Modeling and Transmission Optimization for the Beamline of HUST-PTF<br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Chengyong Liu <br>**The Symposium on Accelerator Physics, SAP**, 2023<br>
+- [Deep Similarity Preserving and Attention-based Hashing for Cross-Modal Retrieval](https://hustyuchen.github.io/mypaper/Conference/conference_1.pdf)<br>Shubai Chen, Wu Song*, **Yu Chen**, Yuan Yuan <br>**Proceedings of the International Conference on Software Engineering and Knowledge Engineering, SEKE**, 2021<br>
+
+
+
 ## Competition Manuscript
 
 - [Signal distortion measurement device (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Electric_Competition_2022.pdf)<br>**Yu Chen**, Xi Chen, Ziqi Liao (Advisor: Prof. Zhongyong Zhao)<br>National Undergraduate Electronics Design Contest (2022 National Second Prize)<br>
@@ -65,9 +75,4 @@ Latest Update: 26 Nov. 2024&nbsp;
 - [Study on the Promoting Effect of "Two Mountains" Theory on Rural Revitalization --Survey on the sense of access of 127 villagers in Anji Yu Village (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Challenge_Cup_2021.pdf)<br>Xinru Li, Xintong Wang, Yue Wang, Leyi Zhang, Wei Quan, Xinwei Song, Jiaqi Dang, Yun He, Saiya Sun, **Yu Chen** <br>Challenge Cup Extracurricular Academic Works of Science and Technology for University Students (2021 First Prize in Chongqing)<br>
 - [A Model for Evaluating and Optimizing Higher](https://hustyuchen.github.io/mypaper/Competition/Mathematical_Modeling_2021.pdf)<br>**Yu Chen**, Shubai Chen, Zehua Cao (Advisor: Prof. Zhongyong Zhao)<br>Mathematical Contest In Modeling (2021 Meritorious Winner)<br>
 - [Credit Decision Optimization Model Based on TOPSIS and KMV Model (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Mathematical_Modeling_2020.pdf)<br>**Yu Chen**, Shubai Chen, Zehua Cao (Advisor: Prof. Zichuan Fan)<br>National Undergraduate Mathematical Contest in Modeling (2020 First Prize in Chongqing)<br>
-
-## Conference Papers
-
-- High-fidelity Modeling and Transmission Optimization for the Beamline of HUST-PTF<br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Chengyong Liu <br>**The Symposium on Accelerator Physics, SAP**, 2023<br>
-- [Deep Similarity Preserving and Attention-based Hashing for Cross-Modal Retrieval](https://hustyuchen.github.io/mypaper/Conference/conference_1.pdf)<br>Shubai Chen, Wu Song*, **Yu Chen**, Yuan Yuan <br>**Proceedings of the International Conference on Software Engineering and Knowledge Engineering, SEKE**, 2021<br>
 
