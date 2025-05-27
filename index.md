@@ -10,7 +10,7 @@ Here is **Yu Chen ([陈宇](https://hustyuchen.github.io/file/CV_YuChen.pdf))**.
 
 Currently, I am a Ph.D. candidate in the Department of Building Environment and Energy Engineering at The Hong Kong Polytechnic University, Hong Kong, under the supervision of [Prof. Yaping Du](https://www.polyu.edu.hk/beee/people/academic-staff/professor-du-yaping/) and [Research Assistant Prof. Yuxuan Ding](https://www.polyu.edu.hk/beee/people/academic-staff/dr-ding-yuxuan/). Before this, I obtained a B.S. degree from the College of Engineering and Technology at Southwest University and an M.S. degree from the School of Electrical and Electronic Engineering at Huazhong University of Science and Technology, where I was advised by [Prof. Zhongyong Zhao](http://gcjsxy.swu.edu.cn/info/1013/1634.htm) and [Prof. Bin Qin](http://faculty.hust.edu.cn/qinbin/zh_CN/index/1375399/list/index.htm), respectively. Here is [my Resume](https://hustyuchen.github.io/file/CV_YuChen.pdf) (Last updated: May 2025).
 
-I would love to chat and collaborate if you are interested in any aspect of me and my work. Please email me at  yu_chen2000@hust.edu.cn or chen1034429543 (WeChat).
+I would love to chat and collaborate if you are interested in any aspect of me and my work 😊😊. Please email me at  yu_chen2000@hust.edu.cn or chen1034429543 (WeChat).
 
 <br>
 
