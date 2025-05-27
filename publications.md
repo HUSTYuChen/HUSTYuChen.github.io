@@ -19,11 +19,7 @@ Latest Update: May 2025&nbsp;
 
 ### 1. Research about the transformer
 
-- Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>
-
-  **Yu Chen**, Jiangnan Liu, Zhongyong Zhao*, Yuxuan Ding, Yaping Du, Chenguo Yao<br>
-
-  Submitted to IEEE Transactions on Power Delivery, 2025
+- Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>**Yu Chen**, Jiangnan Liu, Zhongyong Zhao*, Yuxuan Ding, Yaping Du, Chenguo Yao<br>Submitted to IEEE Transactions on Power Delivery, 2025<br>
 
 - [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024<br>
 
@@ -37,8 +33,7 @@ Latest Update: May 2025&nbsp;
 
 - [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu, **Yu Chen**, Zhongyong Zhao*, Xiaoyu Gong, Chao Tang <br>High Voltage Technology, 2023<br>
 
-- [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>
-  **Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Yunlong Guo, Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023<br>
+- [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Yunlong Guo, Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023<br>
 
 - [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Wei Wang, Chao Tang <br>IEEE Sensors Journal, 2023<br>
 
@@ -70,7 +65,7 @@ Latest Update: May 2025&nbsp;
 - [Signal distortion measurement device (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Electric_Competition_2022.pdf)<br>**Yu Chen**, Xi Chen, Ziqi Liao (Advisor: Prof. Zhongyong Zhao)<br>National Undergraduate Electronics Design Contest (2022 National Second Prize)<br>
 - [Plasma-based wastewater treatment plant (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Plasma_Competition_2021.pdf)<br>Haodong Dai, Hao Gui, **Yu Chen** (Advisor: Prof. Zhongyong Zhao)<br>National Plasma Science and Technology Innovation Competition of College Students (2022 National Second Prize)<br>
 - [Nanosecond Fault Detector - The Doctor of Large Generator Conditioning (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Internet_Plus_2021.pdf)<br>Yueqiang Yu, Mengyuan Han, **Yu Chen**, Chanchan Li, Zimeng Yan, Dan Liu, Xi Chen, Hao Gui (Advisor: Prof. Zhongyong Zhao)<br>Challenge Cup Extracurricular Academic Works of Science and Technology for University Students (2021 Excellence Award)<br>
-- [Study on the Promoting Effect of "Two Mountains" Theory on Rural Revitalization --Survey on the sense of access of 127 villagers in Anji Yu Village (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Challenge_Cup_2021.pdf)<br>Xinru Li, Xintong Wang, Yue Wang, Leyi Zhang, Wei Quan, Xinwei Song, Jiaqi Dang, Yun He, Saiya Sun, **Yu Chen** <br>Challenge Cup Extracurricular Academic Works of Science and Technology for University Students (2021 First Prize in Chongqing)<br>
+- [Study on the Promoting Effect of "Two Mountains" Theory on Rural Revitalization-Survey on the sense of access of 127 villagers in Anji Yu Village (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Challenge_Cup_2021.pdf)<br>Xinru Li, Xintong Wang, Yue Wang, Leyi Zhang, Wei Quan, Xinwei Song, Jiaqi Dang, Yun He, Saiya Sun, **Yu Chen** <br>Challenge Cup Extracurricular Academic Works of Science and Technology for University Students (2021 First Prize in Chongqing)<br>
 - [A Model for Evaluating and Optimizing Higher](https://hustyuchen.github.io/mypaper/Competition/Mathematical_Modeling_2021.pdf)<br>**Yu Chen**, Shubai Chen, Zehua Cao (Advisor: Prof. Zhongyong Zhao)<br>Mathematical Contest In Modeling (2021 Meritorious Winner)<br>
 - [Credit Decision Optimization Model Based on TOPSIS and KMV Model (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Mathematical_Modeling_2020.pdf)<br>**Yu Chen**, Shubai Chen, Zehua Cao (Advisor: Prof. Zichuan Fan)<br>National Undergraduate Mathematical Contest in Modeling (2020 First Prize in Chongqing)<br>
 
