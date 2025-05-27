@@ -28,9 +28,9 @@ I would love to chat and collaborate if you are interested in any aspect of me a
 
 ## Research Interests
 
-- Transient model, condition monitoring, and fault diagnosis for transformer winding based on frequency response analysis (Ph.D., these research works are a continuation of my undergraduate work 😊😊.)
-- Start-to-end modeling and surrogate model for a proton therapy facility and intelligent beamline optimization (M.S., I am no longer engaged in related research 😭😭.)
-- Broadband equivalent circuit modeling, condition monitoring, and fault diagnosing for synchronous machine winding based on frequency response analysis (B.S., I am still conducting relevant research at present 😊😊.)
+- Transient model, condition monitoring, and fault diagnosis for transformer winding based on frequency response analysis (Ph.D., these research works are a continuation of my undergraduate work 😊😊.)<br>
+- Start-to-end modeling and surrogate model for a proton therapy facility and intelligent beamline optimization (M.S., I am no longer engaged in related research 😭😭.)<br>
+- Broadband equivalent circuit modeling, condition monitoring, and fault diagnosing for synchronous machine winding based on frequency response analysis (B.S., I am still conducting relevant research at present 😊😊.)<br>
 
 My current research investigates integrated transformer modeling, encompassing the tank, winding, and other constituent components. My broader research interests lie in the application of artificial intelligence (AI) methodologies to electrical engineering problems, specifically focusing on techniques such as data augmentation, anomaly detection, lifelong learning, reinforcement learning, and few-shot learning. These AI-driven approaches are being explored in contexts such as fault diagnosis, system identification, and optimal control.
 
