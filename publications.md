@@ -38,7 +38,9 @@ Latest Update: May 2025&nbsp;
 - [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Wei Wang, Chao Tang <br>IEEE Sensors Journal, 2023<br>
 
 - [Evaluation of the Applicability of IFRA for Short Circuit Fault Detection of Stator Windings in Synchronous Machines](https://hustyuchen.github.io/mypaper/Journal/IFRA_2022.pdf)<br>Yueqiang Yu, Zhongyong Zhao*, **Yu Chen**, Hanzhi Wu, Chao Tang, Wenwen Gu<br>IEEE Transactions on Instrumentation and Measurement, 2022<br>
+
 - [Fault anomaly detection of synchronous machine winding based on isolation forest and impulse frequency response analysis](https://hustyuchen.github.io/mypaper/Journal/Anomaly_detection_2022.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Hanzhi Wu, Xi Chen, Qianbo Xiao, Yueqiang Yu<br>Measurement, 2022<br>
+
 - [Equivalent Broadband Electrical Circuit of Synchronous Machine Winding for Frequency Response Analysis based on Gray Box Model](https://hustyuchen.github.io/mypaper/Journal/Modeling_2_2021.pdf)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Yueqiang Yu, Mengyuan Han, Chao Tang, Chenguo Yao<br>IEEE Transactions on Energy Conversion, 2021<br>
 
 - [Synchronous Machine Winding Modeling Method Based on Broadband Characteristics](https://hustyuchen.github.io/mypaper/Journal/Modeling_1_2021.pdf)<br>**Yu Chen**, Xiaoqing Ji, Zhongyong Zhao*<br>Applied Science, 2021<br>
@@ -52,6 +54,7 @@ Latest Update: May 2025&nbsp;
 - [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2024.pdf) <br>Wei Wang, Xu Liu*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>Physics in Medicine & Biology, 2024<br>
 
 - [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/Start_to_end_modeling_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
+
 ### 4. Other research
 
 - [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://hustyuchen.github.io/mypaper/Journal/Meter_2022.pdf)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Jiangnan Liu, Yingying Cheng, Chao Tang, Chenguo Yao<br>IEEE Transactions on Industrial Informatics, 2022<br>
