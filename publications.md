@@ -21,7 +21,7 @@ Latest Update: May 2025&nbsp;
 
 - Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>**Yu Chen**, Jiangnan Liu, Zhongyong Zhao*, Yuxuan Ding, Yaping Du, Chenguo Yao<br>Submitted to IEEE Transactions on Power Delivery, 2025<br>
 
-- [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024<br>
+- [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]]([https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-))<br>
 
 - [Interpretation of Transformer Winding Deformation Fault by the Spectral Clustering of FRA Signature](https://hustyuchen.github.io/mypaper/Journal/FRA_Transformer_1_2021.pdf)<br>Zhongyong Zhao*, Chao Tang, **Yu Chen**, Qu Zhou, Chenguo Yao, Syed Islam<br>International Journal of Electrical Power & Energy Systems, 2021<br>
 
@@ -29,11 +29,11 @@ Latest Update: May 2025&nbsp;
 
 ### 2. Research about the synchronous machine
 
-- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025<br>
+- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]]([https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning))<br>
 
 - [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu, **Yu Chen**, Zhongyong Zhao*, Xiaoyu Gong, Chao Tang <br>High Voltage Technology, 2023<br>
 
-- [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Yunlong Guo, Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023<br>
+- [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Yunlong Guo, Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023, [[code]](https://github.com/cy1034429432/Improved-Interpretation-of-IFRA-based-on-iCaRL)<br>
 
 - [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Wei Wang, Chao Tang <br>IEEE Sensors Journal, 2023<br>
 
@@ -49,7 +49,7 @@ Latest Update: May 2025&nbsp;
 
 - Improved HUST-PTF Beamline Control System for Beam Commissioning <br>Chengyong Liu, **Yu Chen**, Dong Li*, Qushan Chen, Shaokun Zhou, Bin Qin<br>Submitted to Nuclear Engineering and Technology, 2025<br>
 
-- [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://hustyuchen.github.io/mypaper/Journal/Surrogate_model_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024<br>
+- [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://hustyuchen.github.io/mypaper/Journal/Surrogate_model_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024, [[code]](https://github.com/cy1034429432/A-data-efficient-surrogate-modeling-method-for-a-cyclotron-based-proton-therapy-beamline)<br>
 
 - [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2024.pdf) <br>Wei Wang, Xu Liu*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>Physics in Medicine & Biology, 2024<br>
 
@@ -57,7 +57,7 @@ Latest Update: May 2025&nbsp;
 
 ### 4. Other research
 
-- [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://hustyuchen.github.io/mypaper/Journal/Meter_2022.pdf)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Jiangnan Liu, Yingying Cheng, Chao Tang, Chenguo Yao<br>IEEE Transactions on Industrial Informatics, 2022<br>
+- [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://hustyuchen.github.io/mypaper/Journal/Meter_2022.pdf)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Jiangnan Liu, Yingying Cheng, Chao Tang, Chenguo Yao<br>IEEE Transactions on Industrial Informatics, 2022, [[code]](https://github.com/cy1034429432/transfomer-encoder-bilstm-acc-99.5-)<br>
 
 - [Analysis of Influencing Factors of 10 kV Dry Type Iron Core Series Ｒeactor Fault Based on Equivalent Circuit and Temperature Field Model (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/Reactor_2021.pdf) <br>Zhongyong Zhao*, **Yu Chen (student first)**, Yanqjun Li, Mengyuan Han, Yueqiang Yue<br> Science Technology and Engineering, 2021<br>
 
