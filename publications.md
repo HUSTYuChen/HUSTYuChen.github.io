@@ -21,7 +21,7 @@ Latest Update: May 2025&nbsp;
 
 - Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>**Yu Chen**, Jiangnan Liu, Zhongyong Zhao*, Yuxuan Ding, Yaping Du, Chenguo Yao<br>Submitted to IEEE Transactions on Power Delivery, 2025<br>
 
-- [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]]([https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-))<br>
+- [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]](https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-)<br>
 
 - [Interpretation of Transformer Winding Deformation Fault by the Spectral Clustering of FRA Signature](https://hustyuchen.github.io/mypaper/Journal/FRA_Transformer_1_2021.pdf)<br>Zhongyong Zhao*, Chao Tang, **Yu Chen**, Qu Zhou, Chenguo Yao, Syed Islam<br>International Journal of Electrical Power & Energy Systems, 2021<br>
 
@@ -29,7 +29,7 @@ Latest Update: May 2025&nbsp;
 
 ### 2. Research about the synchronous machine
 
-- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]]([https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning))<br>
+- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]](https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning)<br>
 
 - [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu, **Yu Chen**, Zhongyong Zhao*, Xiaoyu Gong, Chao Tang <br>High Voltage Technology, 2023<br>
 
