@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Latest Update: May 2025&nbsp;  
+Latest Update: Nov 2025&nbsp;  
 
 ## Thesis
 
@@ -19,7 +19,7 @@ Latest Update: May 2025&nbsp;
 
 ### 1. Research about the transformer
 
-- Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>**Yu Chen**, Jiangnan Liu, Zhongyong Zhao*, Yuxuan Ding, Yaping Du, Chenguo Yao<br>Submitted to IEEE Transactions on Power Delivery, 2025<br>
+- Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding, Yaping Du, Chenguo Yao, Zhongyong Zhao*<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025<br>
 
 - [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]](https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-)<br>
 
@@ -47,7 +47,7 @@ Latest Update: May 2025&nbsp;
 
 ### 3. Research about the proton therapy facility
 
-- Improved HUST-PTF Beamline Control System for Beam Commissioning <br>Chengyong Liu, **Yu Chen**, Dong Li*, Qushan Chen, Shaokun Zhou, Bin Qin<br>Submitted to Nuclear Engineering and Technology, 2025<br>
+- [Improved HUST-PTF Beamline Control System for Beam Commissioning](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2025.pdf) <br>Chengyong Liu, **Yu Chen**, Dong Li*, Qushan Chen, Shaokun Zhou, Bin Qin<br>Nuclear Engineering and Technology, 2025<br>
 
 - [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://hustyuchen.github.io/mypaper/Journal/Surrogate_model_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024, [[code]](https://github.com/cy1034429432/A-data-efficient-surrogate-modeling-method-for-a-cyclotron-based-proton-therapy-beamline)<br>
 
