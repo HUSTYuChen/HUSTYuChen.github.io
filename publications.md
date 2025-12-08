@@ -47,7 +47,7 @@ Latest Update: Nov 2025&nbsp;
 
 ### 3. Research about the proton therapy facility
 
-- [Miniaturization Design Study of a Dipole Magnet Applied to Proton Therapy BeamLine](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2025.pdf) <br>Xuchuan Liang, **Yu Chen**, Qushan Chen*, Yicheng Liao, Ziyi Yang, Zhenyi Yang, Xu Liu, Bin Qin<br>International Journal of Modern Physics A, 2025<br>
+- [Miniaturization Design Study of a Dipole Magnet Applied to Proton Therapy BeamLine](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_magnet_2025.pdf) <br>Xuchuan Liang, **Yu Chen**, Yicheng Liao, Qushan Chen*, Ziyi Yang, Zhenyi Yang, Xu Liu, Bin Qin<br>International Journal of Modern Physics A, 2025<br>
 
 - [Improved HUST-PTF Beamline Control System for Beam Commissioning](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2025.pdf) <br>Chengyong Liu, **Yu Chen**, Dong Li*, Qushan Chen, Shaokun Zhou, Bin Qin<br>Nuclear Engineering and Technology, 2025<br>
 
