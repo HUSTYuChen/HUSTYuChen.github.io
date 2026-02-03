@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Latest Update: Nov 2025&nbsp;  
+Latest Update: Jan 2026&nbsp;  
 
 ## Thesis
 
@@ -19,6 +19,8 @@ Latest Update: Nov 2025&nbsp;
 
 ### 1. Research about the transformer
 
+- Fast Electromagnetic Transient Modeling of Transformers Based on the Partial Element Equivalent Circuit and Image Methods<br>**Yu Chen**, Yuxuan Ding*, Yaping Du, Binghao Li, Chakhung Yeung, Dongchuan Fan, Quan Zhou, Zhongyong Zhao, Pablo Gomez<br>submit to IEEE TPD, 2026<br>
+
 - [Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization](https://hustyuchen.github.io/mypaper/Journal/Transformer_winding_modeling_2025.pdf)<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding*, Yaping Du, Chenguo Yao, Zhongyong Zhao**<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025<br>
 
 - [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]](https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-)<br>
@@ -28,6 +30,8 @@ Latest Update: Nov 2025&nbsp;
 - [The Actual Measurement and Analysis of Transformer Winding Deformation Fault Degrees by FRA Using Mathematical Indicators](https://hustyuchen.github.io/mypaper/Journal/FRA_Transformer_1_2020.pdf)<br>Jianqiang Ni, Zhongyong Zhao*, Shan Tan, **Yu Chen**, Chenguo Yao, Chao Tang<br>Electric Power Systems Research, 2020<br>
 
 ### 2. Research about the synchronous machine
+
+- Robust Data-driven Method for Data and Label Noises Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis<br>**Yu Chen**, Yuxuan Ding*, Qianchao Wang, Chakhung Yeung, Chenguo Yao, Yaping Du, Zhongyong Zhao<br>submit to IEEE TEC, 2025<br>
 
 - [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]](https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning)<br>
 
