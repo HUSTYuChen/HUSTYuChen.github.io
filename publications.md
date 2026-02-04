@@ -35,7 +35,7 @@ Latest Update: Jan 2026&nbsp;
 
 - [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]](https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning)<br>
 
-- [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu, **Yu Chen**, Zhongyong Zhao*, Xiaoyu Gong, Chao Tang <br>High Voltage Technology, 2023<br>
+- [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu, **Yu Chen**, Zhongyong Zhao*, Xiaoyu Gong, Chao Tang <br>High Voltage Technology, 2023, [(High-quality paper reward)](https://mp.weixin.qq.com/s/wVruhbGeXTtb4WSG6ArU_A)<br>
 
 - [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Yunlong Guo, Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023, [[code]](https://github.com/cy1034429432/Improved-Interpretation-of-IFRA-based-on-iCaRL)<br>
 
