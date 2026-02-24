@@ -21,49 +21,49 @@ Latest Update: Jan 2026&nbsp;
 
 - Fast Electromagnetic Transient Modeling of Transformers Based on the Partial Element Equivalent Circuit and Image Methods<br>**Yu Chen**, Yuxuan Ding*, Yaping Du, Binghao Li, Chakhung Yeung, Dongchuan Fan, Quan Zhou, Zhongyong Zhao, Pablo Gomez<br>submit to IEEE TPD, 2026<br>
 
-- [Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization](https://hustyuchen.github.io/mypaper/Journal/Transformer_winding_modeling_2025.pdf)<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding*, Yaping Du, Chenguo Yao, Zhongyong Zhao**<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025<br>
+- [Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization](https://ieeexplore.ieee.org/document/11262213)<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding*, Yaping Du, Chenguo Yao, Zhongyong Zhao**<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025<br>
 
-- [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://hustyuchen.github.io/mypaper/Journal/GAN_2024.pdf) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]](https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-)<br>
+- [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://www.sciencedirect.com/science/article/pii/S1350630724001614) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]](https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-)<br>
 
-- [Interpretation of Transformer Winding Deformation Fault by the Spectral Clustering of FRA Signature](https://hustyuchen.github.io/mypaper/Journal/FRA_Transformer_1_2021.pdf)<br>Zhongyong Zhao*, Chao Tang, **Yu Chen**, Qu Zhou, Chenguo Yao, Syed Islam<br>International Journal of Electrical Power & Energy Systems, 2021<br>
+- [Interpretation of Transformer Winding Deformation Fault by the Spectral Clustering of FRA Signature](https://www.sciencedirect.com/science/article/pii/S0142061521001733)<br>Zhongyong Zhao*, Chao Tang, **Yu Chen**, Qu Zhou, Chenguo Yao, Syed Islam<br>International Journal of Electrical Power & Energy Systems, 2021<br>
 
-- [The Actual Measurement and Analysis of Transformer Winding Deformation Fault Degrees by FRA Using Mathematical Indicators](https://hustyuchen.github.io/mypaper/Journal/FRA_Transformer_1_2020.pdf)<br>Jianqiang Ni, Zhongyong Zhao*, Shan Tan, **Yu Chen**, Chenguo Yao, Chao Tang<br>Electric Power Systems Research, 2020<br>
+- [The Actual Measurement and Analysis of Transformer Winding Deformation Fault Degrees by FRA Using Mathematical Indicators](https://www.sciencedirect.com/science/article/pii/S0378779620301309)<br>Jianqiang Ni, Zhongyong Zhao*, Shan Tan, **Yu Chen**, Chenguo Yao, Chao Tang<br>Electric Power Systems Research, 2020<br>
 
 ### 2. Research about the synchronous machine
 
 - Robust Data-driven Method for Data and Label Noises Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis<br>**Yu Chen**, Yuxuan Ding*, Qianchao Wang, Chakhung Yeung, Chenguo Yao, Yaping Du, Zhongyong Zhao<br>submit to IEEE TEC, 2025<br>
 
-- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://hustyuchen.github.io/mypaper/Journal/Active_learning_2025.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]](https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning)<br>
+- [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://ieeexplore.ieee.org/abstract/document/10965843)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]](https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning)<br>
 
 - [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu, **Yu Chen**, Zhongyong Zhao*, Xiaoyu Gong, Chao Tang <br>High Voltage Technology, 2023, [(High-quality paper reward)](https://mp.weixin.qq.com/s/wVruhbGeXTtb4WSG6ArU_A)<br>
 
-- [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://hustyuchen.github.io/mypaper/Journal/Life_long_learning_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Yunlong Guo, Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023, [[code]](https://github.com/cy1034429432/Improved-Interpretation-of-IFRA-based-on-iCaRL)<br>
+- [Improved Interpretation of Impulse Frequency Response Analysis for Synchronous Machine Using Life Long Learning Based on iCaRL](https://ieeexplore.ieee.org/document/10251419)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Yunlong Guo, Chao Tang <br>IEEE Transactions on Instrumentation and Measurement, 2023, [[code]](https://github.com/cy1034429432/Improved-Interpretation-of-IFRA-based-on-iCaRL)<br>
 
-- [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://hustyuchen.github.io/mypaper/Journal/Understanding_IFRA_2023.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Wei Wang, Chao Tang <br>IEEE Sensors Journal, 2023<br>
+- [Understanding IFRA for Detecting Synchronous Machine Winding Short Circuit Faults Based on Image Classification and Smooth Grad-CAM++](https://ieeexplore.ieee.org/document/9989429)<br>**Yu Chen**, Zhongyong Zhao*, Yueqiang Yu, Wei Wang, Chao Tang <br>IEEE Sensors Journal, 2023<br>
 
-- [Evaluation of the Applicability of IFRA for Short Circuit Fault Detection of Stator Windings in Synchronous Machines](https://hustyuchen.github.io/mypaper/Journal/IFRA_2022.pdf)<br>Yueqiang Yu, Zhongyong Zhao*, **Yu Chen**, Hanzhi Wu, Chao Tang, Wenwen Gu<br>IEEE Transactions on Instrumentation and Measurement, 2022<br>
+- [Evaluation of the Applicability of IFRA for Short Circuit Fault Detection of Stator Windings in Synchronous Machines](https://ieeexplore.ieee.org/document/9866805)<br>Yueqiang Yu, Zhongyong Zhao*, **Yu Chen**, Hanzhi Wu, Chao Tang, Wenwen Gu<br>IEEE Transactions on Instrumentation and Measurement, 2022<br>
 
-- [Fault anomaly detection of synchronous machine winding based on isolation forest and impulse frequency response analysis](https://hustyuchen.github.io/mypaper/Journal/Anomaly_detection_2022.pdf)<br>**Yu Chen**, Zhongyong Zhao*, Hanzhi Wu, Xi Chen, Qianbo Xiao, Yueqiang Yu<br>Measurement, 2022<br>
+- [Fault anomaly detection of synchronous machine winding based on isolation forest and impulse frequency response analysis](https://www.sciencedirect.com/science/article/pii/S0263224121014093)<br>**Yu Chen**, Zhongyong Zhao*, Hanzhi Wu, Xi Chen, Qianbo Xiao, Yueqiang Yu<br>Measurement, 2022<br>
 
-- [Equivalent Broadband Electrical Circuit of Synchronous Machine Winding for Frequency Response Analysis based on Gray Box Model](https://hustyuchen.github.io/mypaper/Journal/Modeling_2_2021.pdf)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Yueqiang Yu, Mengyuan Han, Chao Tang, Chenguo Yao<br>IEEE Transactions on Energy Conversion, 2021<br>
+- [Equivalent Broadband Electrical Circuit of Synchronous Machine Winding for Frequency Response Analysis based on Gray Box Model](https://ieeexplore.ieee.org/document/9435949)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Yueqiang Yu, Mengyuan Han, Chao Tang, Chenguo Yao<br>IEEE Transactions on Energy Conversion, 2021<br>
 
 - [Synchronous Machine Winding Modeling Method Based on Broadband Characteristics](https://hustyuchen.github.io/mypaper/Journal/Modeling_1_2021.pdf)<br>**Yu Chen**, Xiaoqing Ji, Zhongyong Zhao*<br>Applied Science, 2021<br>
 
 ### 3. Research about the proton therapy facility
 
-- [Miniaturization Design Study of a Dipole Magnet Applied to Proton Therapy BeamLine](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_magnet_2025.pdf) <br>Xuchuan Liang, **Yu Chen**, Yicheng Liao, Qushan Chen*, Ziyi Yang, Zhenyi Yang, Xu Liu, Bin Qin<br>International Journal of Modern Physics A, 2025<br>
+- [Miniaturization Design Study of a Dipole Magnet Applied to Proton Therapy BeamLine](https://www.worldscientific.com/doi/10.1142/S0217751X26500284) <br>Xuchuan Liang, **Yu Chen**, Yicheng Liao, Qushan Chen*, Ziyi Yang, Zhenyi Yang, Xu Liu, Bin Qin<br>International Journal of Modern Physics A, 2025<br>
 
 - [Improved HUST-PTF Beamline Control System for Beam Commissioning](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2025.pdf) <br>Chengyong Liu, **Yu Chen**, Dong Li*, Qushan Chen, Shaokun Zhou, Bin Qin<br>Nuclear Engineering and Technology, 2025<br>
 
-- [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://hustyuchen.github.io/mypaper/Journal/Surrogate_model_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024, [[code]](https://github.com/cy1034429432/A-data-efficient-surrogate-modeling-method-for-a-cyclotron-based-proton-therapy-beamline)<br>
+- [A data-efficient surrogate modeling method for a cyclotron-based proton therapy beamline based on active learning](https://www.worldscientific.com/doi/10.1142/S0217751X24501604) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>International Journal of Modern Physics A, 2024, [[code]](https://github.com/cy1034429432/A-data-efficient-surrogate-modeling-method-for-a-cyclotron-based-proton-therapy-beamline)<br>
 
-- [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://hustyuchen.github.io/mypaper/Journal/Proton_therapy_2024.pdf) <br>Wei Wang, Xu Liu*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>Physics in Medicine & Biology, 2024<br>
+- [Mixed-size spot scanning with a compact large momentum acceptance superconducting (LMA-SC) gantry beamline for proton therapy](https://iopscience.iop.org/article/10.1088/1361-6560/ad45a6) <br>Wei Wang, Xu Liu*, Yicheng Liao, Yiling Zeng, **Yu Chen**, Benzhaoxia Yu, Zhiyong Yang, Hao Gao, Bin Qin<br>Physics in Medicine & Biology, 2024<br>
 
 - [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/Start_to_end_modeling_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
 
 ### 4. Other research
 
-- [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://hustyuchen.github.io/mypaper/Journal/Meter_2022.pdf)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Jiangnan Liu, Yingying Cheng, Chao Tang, Chenguo Yao<br>IEEE Transactions on Industrial Informatics, 2022, [[code]](https://github.com/cy1034429432/transfomer-encoder-bilstm-acc-99.5-)<br>
+- [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://ieeexplore.ieee.org/document/9767546)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Jiangnan Liu, Yingying Cheng, Chao Tang, Chenguo Yao<br>IEEE Transactions on Industrial Informatics, 2022, [[code]](https://github.com/cy1034429432/transfomer-encoder-bilstm-acc-99.5-)<br>
 
 - [Analysis of Influencing Factors of 10 kV Dry Type Iron Core Series Ｒeactor Fault Based on Equivalent Circuit and Temperature Field Model (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/Reactor_2021.pdf) <br>Zhongyong Zhao*, **Yu Chen (student first)**, Yanqjun Li, Mengyuan Han, Yueqiang Yue<br> Science Technology and Engineering, 2021<br>
 
