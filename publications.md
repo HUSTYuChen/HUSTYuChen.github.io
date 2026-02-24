@@ -33,6 +33,12 @@ Latest Update: Jan 2026&nbsp;
 
 - Robust Data-driven Method for Data and Label Noises Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis<br>**Yu Chen**, Yuxuan Ding*, Qianchao Wang, Chakhung Yeung, Chenguo Yao, Yaping Du, Zhongyong Zhao<br>submit to IEEE TEC, 2025<br>
 
+- [Intelligent Image Recognition Based Automatic Modeling System for Power Equipment Equivalent Circuits](https://ieeexplore.ieee.org/document/11308853)<br>
+
+  Qiwen Ye, **Yu Chen**, Zong Deng, Zhengzheng Liu<br>
+
+  2025 IEEE China International Youth Conference on Electrical Engineering (CIYCEE)
+
 - [Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning](https://ieeexplore.ieee.org/abstract/document/10965843)<br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Wei Wang, Chenguo Yao <br>IEEE Sensors Journal, 2025, [[code]](https://github.com/cy1034429432/Intelligent-FRA-guided-Synchronous-Machine-Winding-SC-Faults-Diagnosis-Based-on-Active-Learning)<br>
 
 - [Detection Method of Stator Winding Short Circuit Fault of Synchronous Motor Based on CWT and CNN-BiLSTM (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/CWT_CNN_BiLSTM_2023.pdf)<br>Yueqiang Yu, **Yu Chen**, Zhongyong Zhao*, Xiaoyu Gong, Chao Tang <br>High Voltage Technology, 2023, [(High-quality paper reward)](https://mp.weixin.qq.com/s/wVruhbGeXTtb4WSG6ArU_A)<br>
