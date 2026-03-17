@@ -19,6 +19,8 @@ Latest Update: Jan 2026&nbsp;
 
 ### 1. Research about the transformer
 
+- Towards Transformer Winding Deformation Fault Diagnosis under Data Scarcity: Integrating Frequency Response Analysis with Metric Learning<br>**Yu Chen**, Zhe Chen, Yuxuan Ding*, Yaping Du, Binghao Li, Jiangnan Liu, Chakhung Yeung, Chenguo Yao, Zhongyong Zhao<br>submit to IEEE TDEI, 2026<br>
+
 - Fast Electromagnetic Transient Modeling of Transformers Based on the Partial Element Equivalent Circuit and Image Methods<br>**Yu Chen**, Yuxuan Ding*, Yaping Du, Binghao Li, Chakhung Yeung, Dongchuan Fan, Quan Zhou, Zhongyong Zhao, Pablo Gomez<br>submit to IEEE TPD, 2026<br>
 
 - [Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization](https://ieeexplore.ieee.org/document/11262213)<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding*, Yaping Du, Chenguo Yao, Zhongyong Zhao**<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025<br>
@@ -31,7 +33,7 @@ Latest Update: Jan 2026&nbsp;
 
 ### 2. Research about the synchronous machine
 
-- Robust Data-driven Method for Data and Label Noises Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis<br>**Yu Chen**, Yuxuan Ding*, Qianchao Wang, Chakhung Yeung, Chenguo Yao, Yaping Du, Zhongyong Zhao<br>submit to IEEE TEC, 2025<br>
+- Robust Data-driven Method for Data and Label Noises Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis<br>**Yu Chen**, Yuxuan Ding*, Qianchao Wang, Chakhung Yeung, Chenguo Yao, Yaping Du, Zhongyong Zhao<br>submit to IEEE SJ, 2026<br>
 
 - [Intelligent Image Recognition Based Automatic Modeling System for Power Equipment Equivalent Circuits](https://ieeexplore.ieee.org/document/11308853)<br>Qiwen Ye, **Yu Chen**, Zong Deng, Zhengzheng Liu*<br>2025 IEEE China International Youth Conference on Electrical Engineering
 
