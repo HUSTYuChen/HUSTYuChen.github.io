@@ -23,7 +23,7 @@ Latest Update: Jan 2026&nbsp;
 
 - Fast Electromagnetic Transient Modeling of Transformers Based on the Partial Element Equivalent Circuit and Image Methods<br>**Yu Chen**, Yuxuan Ding*, Yaping Du, Binghao Li, Chakhung Yeung, Dongchuan Fan, Quan Zhou, Zhongyong Zhao, Pablo Gomez<br>submit to IEEE TPD, 2026<br>
 
-- [Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization](https://ieeexplore.ieee.org/document/11262213)<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding*, Yaping Du, Chenguo Yao, Zhongyong Zhao**<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025, [[Poster]](https://github.com/HUSTYuChen/HUSTYuChen.github.io/tree/main/mypaper/Journal/Poster_for_transformer_winding_modeling_2025.pdf)<br>
+- [Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization](https://ieeexplore.ieee.org/document/11262213)<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding*, Yaping Du, Chenguo Yao, Zhongyong Zhao**<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025, [[Poster]](https://HUSTYuChen.github.io/mypaper/Journal/Poster_for_transformer_winding_modeling_2025.pdf)<br>
 
 - [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://www.sciencedirect.com/science/article/pii/S1350630724001614) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]](https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-)<br>
 
