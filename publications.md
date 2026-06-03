@@ -14,17 +14,21 @@ Latest Update: Apr 2026&nbsp;
 
 - Synchronous Machine Winding Faults Detection Method Based on Deep Learning (Bachelor's Thesis)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University**<br>
 
-
 ## Selected Papers
-
 ### 1. Research about the transformer
 
 - Hybrid PEEC-CSM Based Calculation of Equivalent Capacitance in Transformers with Different Winding Configurations for Fast Transient Studies <br>**Yu Chen**, Yuxuan Ding*, Yaping Du, Binghao Li, Lian Chen, Chakhung Yeung, Zhongyong Zhao, Pablo Gomez<br>submit to IEEE TPD, 2026<br>
+
 - Fast Electromagnetic Transient Modeling of Transformers Based on the Partial Element Equivalent Circuit and Image Methods<br>**Yu Chen**, Yuxuan Ding*, Yaping Du, Binghao Li, Chakhung Yeung, Dongchuan Fan, Quan Zhou, Zhongyong Zhao, Pablo Gomez<br>submit to IEEE TPD, 2026<br>
+
 - [Towards Transformer Winding Deformation Fault Diagnosis under Data Scarcity: Integrating Frequency Response Analysis with Metric Learning](https://ieeexplore.ieee.org/document/11500525)<br>**Yu Chen**, Zhe Chen, Yuxuan Ding*, Yaping Du**, Binghao Li, Jiangnan Liu, Chakhung Yeung, Chenguo Yao, Zhongyong Zhao<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2026,  [[code]](https://github.com/cy1034429432/FRA_Metric_Learning)<br>
+
 - [Two-Step Broadband Equivalent Circuit Modeling Method for Power Transformer Winding Based on Frequency Response Analysis and Bayesian Optimization](https://ieeexplore.ieee.org/document/11262213)<br>**Yu Chen**, Jiangnan Liu, Yuxuan Ding*, Yaping Du, Chenguo Yao, Zhongyong Zhao**<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2025, [[Poster]](https://HUSTYuChen.github.io/mypaper/Journal/Poster_for_transformer_winding_modeling_2025.pdf)<br>
+
 - [Application of generative AI-based data augmentation technique  in transformer winding deformation fault diagnosis](https://www.sciencedirect.com/science/article/pii/S1350630724001614) <br>**Yu Chen**, Zhongyong Zhao*, Jiangnan Liu, Shan Tan, Changqing Liu<br>Engineering Failure Analysis, 2024, [[code]](https://github.com/cy1034429432/Diagnosing-Transformer-Winding-Deformation-Fault-Types-from-FRA-Based-on-Conditional-WGAN-GP-)<br>
+
 - [Interpretation of Transformer Winding Deformation Fault by the Spectral Clustering of FRA Signature](https://www.sciencedirect.com/science/article/pii/S0142061521001733)<br>Zhongyong Zhao*, Chao Tang, **Yu Chen**, Qu Zhou, Chenguo Yao, Syed Islam<br>International Journal of Electrical Power & Energy Systems, 2021<br>
+
 - [The Actual Measurement and Analysis of Transformer Winding Deformation Fault Degrees by FRA Using Mathematical Indicators](https://www.sciencedirect.com/science/article/pii/S0378779620301309)<br>Jianqiang Ni, Zhongyong Zhao*, Shan Tan, **Yu Chen**, Chenguo Yao, Chao Tang<br>Electric Power Systems Research, 2020<br>
 
 ### 2. Research about the synchronous machine
@@ -73,23 +77,12 @@ Latest Update: Apr 2026&nbsp;
 
 - [Signal distortion measurement device (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Electric_Competition_2022.pdf)<br>**Yu Chen**, Xi Chen, Ziqi Liao (Advisor: Prof. Zhongyong Zhao)<br>National Undergraduate Electronics Design Contest (2022 National Second Prize)<br>
 
-  
-
 - [Plasma-based wastewater treatment plant (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Plasma_Competition_2021.pdf)<br>Haodong Dai, Hao Gui, **Yu Chen** (Advisor: Prof. Zhongyong Zhao)<br>National Plasma Science and Technology Innovation Competition of College Students (2022 National Second Prize)<br>
-
-  
 
 - [Nanosecond Fault Detector - The Doctor of Large Generator Conditioning (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Internet_Plus_2021.pdf)<br>Yueqiang Yu, Mengyuan Han, **Yu Chen**, Chanchan Li, Zimeng Yan, Dan Liu, Xi Chen, Hao Gui (Advisor: Prof. Zhongyong Zhao)<br>Challenge Cup Extracurricular Academic Works of Science and Technology for University Students (2021 Excellence Award)<br>
 
-  
-
 - [Study on the Promoting Effect of "Two Mountains" Theory on Rural Revitalization-Survey on the sense of access of 127 villagers in Anji Yu Village (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Challenge_Cup_2021.pdf)<br>Xinru Li, Xintong Wang, Yue Wang, Leyi Zhang, Wei Quan, Xinwei Song, Jiaqi Dang, Yun He, Saiya Sun, **Yu Chen** <br>Challenge Cup Extracurricular Academic Works of Science and Technology for University Students (2021 First Prize in Chongqing)<br>
-
-  
 
 - [A Model for Evaluating and Optimizing Higher](https://hustyuchen.github.io/mypaper/Competition/Mathematical_Modeling_2021.pdf)<br>**Yu Chen**, Shubai Chen, Zehua Cao (Advisor: Prof. Zhongyong Zhao)<br>Mathematical Contest In Modeling (2021 Meritorious Winner)<br>
 
-  
-
 - [Credit Decision Optimization Model Based on TOPSIS and KMV Model (in Chinese)](https://hustyuchen.github.io/mypaper/Competition/Mathematical_Modeling_2020.pdf)<br>**Yu Chen**, Shubai Chen, Zehua Cao (Advisor: Prof. Zichuan Fan)<br>National Undergraduate Mathematical Contest in Modeling (2020 First Prize in Chongqing)<br>
-
