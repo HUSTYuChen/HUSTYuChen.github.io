@@ -33,7 +33,7 @@ Latest Update: Apr 2026&nbsp;
 
 ### 2. Research about the synchronous machine
 
-- Robust Data-driven Method for Data and Label Noises Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis<br>**Yu Chen**, Yuxuan Ding*, Qianchao Wang, Chakhung Yeung, Chenguo Yao, Yaping Du, Zhongyong Zhao**<br>IEEE Sensors Journal, 2026, [[code]]([cy1034429432/Learning_from_data_and_label_noise](https://github.com/cy1034429432/Learning_from_data_and_label_noise))<br>
+- Robust Data-driven Method for Data and Label Noises Mitigation in Synchronous Machine Winding Short-Circuit Fault Diagnosis<br>**Yu Chen**, Yuxuan Ding*, Qianchao Wang, Chakhung Yeung, Chenguo Yao, Yaping Du, Zhongyong Zhao**<br>IEEE Sensors Journal, 2026, [[code]]([https://github.com/cy1034429432/Learning_from_data_and_label_noise])<br>
 
 - [Intelligent Image Recognition Based Automatic Modeling System for Power Equipment Equivalent Circuits](https://ieeexplore.ieee.org/document/11308853)<br>Qiwen Ye, **Yu Chen**, Zong Deng, Zhengzheng Liu*<br>2025 IEEE China International Youth Conference on Electrical Engineering
 
