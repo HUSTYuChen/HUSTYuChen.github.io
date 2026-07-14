@@ -12,10 +12,12 @@ Latest Update: Apr 2026&nbsp;
 
 - Research on Integrated Simulation and Surrogate Model  of Proton Therapy Facility Beamline (Master's Thesis)<br>**Yu Chen** (Advisor: Bin Qin)<br>Due to confidentiality, this master's thesis will be available on CNKI in 2031.<br>
 
-- Synchronous Machine Winding Faults Detection Method Based on Deep Learning (Bachelor's Thesis)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University**<br>
+- Synchronous Machine Winding Fault Detection Method Based on Deep Learning (Bachelor's Thesis)<br>**Yu Chen** (Advisor: Zhongyong Zhao)<br>**Excellent Undergraduate Graduation Thesis in Chongqing** and **First Prize of Undergraduate Thesis of Southwest University**<br>
 
 ## Selected Papers
 ### 1. Research about the transformer
+
+- Fast Frequency Response Modeling of Power Transformers Using a PEEC-FEM Formulation Accounting for Core Eddy Currents <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Chakhung Yeung, Dongchuan Fan, Xiao He, Zhongyong Zhao, Pablo Gomez<br>Submitted to IEEE TPD, 2026<br>
 
 - Hybrid PEEC-CSM Based Calculation of Equivalent Capacitance in Transformers with Different Winding Configurations for Fast Transient Studies <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Lian Chen, Chakhung Yeung, Zhongyong Zhao, Pablo Gomez<br>Submitted to IEEE TPD, 2026<br>
 
