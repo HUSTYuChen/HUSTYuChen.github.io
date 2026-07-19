@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Latest Update: Apr 2026&nbsp;  
+Latest Update: June 2026&nbsp;  
 
 ## Thesis
 
@@ -21,7 +21,7 @@ Latest Update: Apr 2026&nbsp;
 
 - Hybrid PEEC-CSM Based Calculation of Equivalent Capacitance in Transformers with Different Winding Configurations for Fast Transient Studies <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Lian Chen, Chakhung Yeung, Zhongyong Zhao, Pablo Gomez<br>Submitted to IEEE TPD, 2026<br>
 
-- Fast Electromagnetic Transient Modeling of Transformers Based on the Partial Element Equivalent Circuit and Image Methods<br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Chakhung Yeung, Dongchuan Fan, Quan Zhou, Zhongyong Zhao, Pablo Gomez<br>IEEE Transactions on Power Delivery, 2026<br>
+- [Fast Electromagnetic Transient Modeling of Transformers Based on the Partial Element Equivalent Circuit and Image Methods](https://ieeexplore.ieee.org/abstract/document/11611672)<br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Chakhung Yeung, Dongchuan Fan, Quan Zhou, Zhongyong Zhao, Pablo Gomez<br>IEEE Transactions on Power Delivery, 2026<br>
 
 - [Towards Transformer Winding Deformation Fault Diagnosis under Data Scarcity: Integrating Frequency Response Analysis with Metric Learning](https://ieeexplore.ieee.org/document/11500525)<br>**Yu Chen**, Zhe Chen, Yuxuan Ding*, Yaping Du**, Binghao Li, Jiangnan Liu, Chakhung Yeung, Chenguo Yao, Zhongyong Zhao<br>IEEE Transactions on Dielectrics and Electrical Insulation, 2026,  [[code]](https://github.com/cy1034429432/FRA_Metric_Learning)<br>
 
