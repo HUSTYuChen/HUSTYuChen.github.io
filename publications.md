@@ -17,6 +17,8 @@ Latest Update: June 2026&nbsp;
 ## Selected Papers
 ### 1. Research about the transformer
 
+- A Streaming PEEC Method With Strongly Coupled Correction and Fast Multipole Acceleration for Winding Parameter Determination <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Pablo Gomez<br>Submitted to IEEE PES Letter, 2026<br>
+
 - Fast Frequency Response Modeling of Power Transformers Using a PEEC-FEM Formulation Accounting for Core Eddy Currents <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Chakhung Yeung, Dongchuan Fan, Xiao He, Zhongyong Zhao, Pablo Gomez<br>Submitted to IEEE TPD, 2026<br>
 
 - Hybrid PEEC-CSM Based Calculation of Equivalent Capacitance in Transformers with Different Winding Configurations for Fast Transient Studies <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Lian Chen, Chakhung Yeung, Zhongyong Zhao, Pablo Gomez<br>Submitted to IEEE TPD, 2026<br>
