@@ -17,6 +17,8 @@ Latest Update: June 2026&nbsp;
 ## Selected Papers
 ### 1. Research about the transformer
 
+- Boundary-Element-Enhanced PEEC Framework for Transformer Fast Transient Modeling Considering Core-Tank Boundaries and Frequency-Dependent Winding Impedance <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Chakhung Yeung, Zhongyong Zhao, Pablo Gomez<br>Submitted to IEEE TPD, 2026<br>
+
 - A Streaming PEEC Method With Strongly Coupled Correction and Fast Multipole Acceleration for Winding Parameter Determination <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Pablo Gomez<br>Submitted to IEEE PES Letter, 2026<br>
 
 - Fast Frequency Response Modeling of Power Transformers Using a PEEC-FEM Formulation Accounting for Core Eddy Currents <br>**Yu Chen**, Yuxuan Ding*, Yaping Du**, Binghao Li, Chakhung Yeung, Dongchuan Fan, Xiao He, Zhongyong Zhao, Pablo Gomez<br>Submitted to IEEE TPD, 2026<br>
@@ -71,13 +73,13 @@ Latest Update: June 2026&nbsp;
 
 - [Start-to-end modeling and transmission efficiency optimization for a cyclotron-based proton therapy beamline](https://hustyuchen.github.io/mypaper/Journal/Start_to_end_modeling_2024.pdf) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Yicheng Liao<br>Nuclear Engineering and Technology, 2024<br>
 
+- [High-Fidelity Modeling and Transmission Optimization for the Beamline of HUST-PTF](https://proceedings.jacow.org/sap2023/doi/JACoW-SAP2023-TUPB016.html) <br>**Yu Chen**, Bin Qin*, Xu Liu, Wei Wang, Chengyong Liu<br>14th Symposium on Accelerator Physics (SAP'23), Xichang, China, 10-12 July 2023<br>
+
 ### 4. Other research
 
 - [Evaluation of Operating State for Smart Electricity Meters Based on Transformer-Encoder-BiLSTM](https://ieeexplore.ieee.org/document/9767546)<br>Zhongyong Zhao*, **Yu Chen (student first)**, Jiangnan Liu, Yingying Cheng, Chao Tang, Chenguo Yao<br>IEEE Transactions on Industrial Informatics, 2022, [[code]](https://github.com/cy1034429432/transfomer-encoder-bilstm-acc-99.5-)<br>
 
 - [Analysis of Influencing Factors of 10 kV Dry Type Iron Core Series Ｒeactor Fault Based on Equivalent Circuit and Temperature Field Model (in Chinese)](https://hustyuchen.github.io/mypaper/Journal/Reactor_2021.pdf) <br>Zhongyong Zhao*, **Yu Chen (student first)**, Yanqjun Li, Mengyuan Han, Yueqiang Yue<br> Science Technology and Engineering, 2021<br>
-
-<br>
 
 ## Competition Manuscript
 
